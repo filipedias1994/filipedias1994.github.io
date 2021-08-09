@@ -1,0 +1,12 @@
+{
+  "swVersion": "1.0",
+  "swMandatory": false,
+  "swRelease": "2021-06-30T17:44:56Z",
+  "swURL": "https://filipedias1994.github.io/testeGitHub.ino.esp32.bin", 
+  "swName": "testeGitHub.ino.esp32.bin",
+  "fsVersion": "0.0",
+  "fsMandatory": false,
+  "fsRelease": "2021-08-09T17:47:56Z",
+  "fsURL": "",
+  "fsName": "testeGitHub.ino.esp32"
+}
