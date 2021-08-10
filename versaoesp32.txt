@@ -1,5 +1,5 @@
 {
-  "swVersion": "2.0",
+  "swVersion": "3.0",
   "swMandatory": false,
   "swRelease": "2021-06-30T17:44:56Z",
   "swURL": "https://filipedias1994.github.io/testeGitHub.ino.esp32.bin", 
